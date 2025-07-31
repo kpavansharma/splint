@@ -53,13 +53,13 @@ Open http://localhost:8000/chat
 
 ---
 
-## 🔁 Training Dataset (Optional)
+## 🔁 Training Dataset
 - Feedback saved in `data/feedback.jsonl`
 - Can be converted to Alpaca format for fine-tuning via LLaMA Factory
 
 ---
 
-## 📌 Next Steps (Post-MVP)
+## 📌 Next Steps
 - 🔧 Full Splunk API-based log sampling (dynamic dashboards)
 - 🎛️ UI-driven visual builder (drag-drop panels, TA wizard)
 - 📈 Analytics dashboard (usage stats, failed queries, routing decisions)
